@@ -13,6 +13,8 @@ then
 fi
 </code></pre>
 
-See the following:
+I added a Wiki article that describes the settings I use for terminal colors. See the following:
 
 https://github.com/gkhays/bash/wiki/Setting-Terminal-and-Shell-Environment-Colors
+
+Or just navigate to Wiki, above.
